@@ -10,7 +10,8 @@
     tools:context="com.example.administrator.day30demo1.MainActivity">
 
     <TextView
+        android:textColor="#f00"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello Liuliao!" />
 </RelativeLayout>
